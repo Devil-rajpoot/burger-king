@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+
+}
+.navbar{
+    height: 100px;
+    width: 100%;
+    background-color: bisque;
+}
+.navbar ul li {
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 20px;
+}
+.navbar ul li a{
+    color: black;
+}
+#button1{
+    margin-left:1000px;
+    
+}
+.main image{
+    height: auto;
+}
+
